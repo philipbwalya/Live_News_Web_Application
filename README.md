@@ -15,7 +15,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.<br>
-Or you can check it out on [https://vercel.com/philip-bwalyas-projects/live-news-app/4mTTbV4E7FvVtv8rMBzNnMjyMFrB](https://live-news-app-philipbwalya-philip-bwalyas-projects.vercel.app/)
+Or you can check it out on https://live-news-app-philipbwalya-philip-bwalyas-projects.vercel.app/
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
