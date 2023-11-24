@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "app/**/*",
-      "use": "@now/next"
+      "use": "@vercel/next"
     }
   ],
   "routes": [
